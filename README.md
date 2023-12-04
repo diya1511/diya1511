@@ -64,7 +64,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=diya1511&theme=algolia" alt="diya1511" /></p>
 
+<p align="center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diya1511&show_icons=true&locale=en&layout=compact&theme=algolia" alt="diya1511" /></p>
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ 
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=diya1511&layout=compact&theme=algolia" alt="diya1511" /> </p>
